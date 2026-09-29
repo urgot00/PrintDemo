@@ -1,4 +1,4 @@
-name = "urgot00"
+name = "김동환"
 age = 20
 score = 95.5
 
